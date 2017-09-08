@@ -4,12 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/../WebProject1/Example9.js" line="37" mnemonic="7" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df0f21fe-e833-4011-a203-7d2c119ba372" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebProject1/static/images/messi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebProject1/static/images/ronaldo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebProject1/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../WebProject1/index.html" />
-    </list>
+    <list default="true" id="df0f21fe-e833-4011-a203-7d2c119ba372" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -147,6 +142,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="GO_FMT" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -294,7 +290,7 @@
       <workItem from="1494158165986" duration="619000" />
       <workItem from="1494161242763" duration="13813000" />
       <workItem from="1494261653557" duration="554000" />
-      <workItem from="1504896336405" duration="409000" />
+      <workItem from="1504896336405" duration="431000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1494174529385</created>
@@ -317,11 +313,18 @@
       <option name="project" value="LOCAL" />
       <updated>1494175300064</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1">
+      <created>1504896761958</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1504896761958</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15395000" />
+    <option name="totallyTimeSpent" value="15417000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
@@ -354,7 +357,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="first" />
-    <option name="LAST_COMMIT_MESSAGE" value="first" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
